@@ -1,0 +1,27 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "A simple app that allows the user to generate a random background color",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/willconstable/Documents/Projects/JavaScript/background-generator/.git/"
+  },
+  "author": "Will Constable",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^6.0.0",
+    "node-sass": "^4.14.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/polyfill": "^7.8.7"
+  }
+}
